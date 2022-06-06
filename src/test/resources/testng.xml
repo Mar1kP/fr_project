@@ -4,7 +4,7 @@
     <test name="Test for Chrome browser">
         <parameter name="browser" value="chrome" />
         <classes>
-            <class name="framework_test.Base_test">
+            <class name="framework_test.cross.CrossBaruser_test">
 
             </class>
         </classes>
@@ -12,7 +12,7 @@
     <test name="Test for Firefox browser">
         <parameter name="browser" value="firefox" />
         <classes>
-            <class name="framework_test.Base_test">
+            <class name="framework_test.cross.CrossBaruser_test">
 
             </class>
         </classes>
