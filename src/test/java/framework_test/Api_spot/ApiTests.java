@@ -93,7 +93,7 @@ public class ApiTests {
         }
 
 /*
-        // 4 Create playlist
+        // 6 Create playlist
         Response post = given().body("{\n" +
                         "  \"name\": \"New Test1 Playlist\",\n" +
                         "  \"description\": \"New playlist description\",\n" +
